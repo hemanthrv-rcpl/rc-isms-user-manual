@@ -1,6 +1,11 @@
+---
+title: School Admin Manual
+description: Complete step-by-step guide for RC ISMS School Admin users covering setup, academics, students, fees, and reporting.
+---
+
 # 📘 RC ISMS: School Admin User Manual
 
-[← Back to Index](index.md)
+[← Back to Home](/)
 
 ## **Phase 1: System Access & Initial Setup**
 
@@ -347,6 +352,6 @@
 
 ---
 
-[← Back to Index](index.md)
+[← Back to Home](/)
 
 **End of Admin Manual**

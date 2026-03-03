@@ -1,0 +1,34 @@
+{
+  "name": "RC ISMS User Manuals",
+  "description": "Official user documentation for the RC Integrated School Management System (RC ISMS).",
+  "theme": {
+    "primary": "#1a6eb5"
+  },
+  "sidebar": [
+    {
+      "group": "Manuals",
+      "pages": [
+        {
+          "title": "🏠 Home",
+          "href": "/"
+        },
+        {
+          "title": "🏫 School Admin Manual",
+          "href": "/school-admin"
+        },
+        {
+          "title": "👩‍🏫 Teacher Manual",
+          "href": "/teacher-coming-soon"
+        },
+        {
+          "title": "👨‍👩‍👧 Parent Manual",
+          "href": "/parent-coming-soon"
+        },
+        {
+          "title": "🎒 Student Manual",
+          "href": "/student-coming-soon"
+        }
+      ]
+    }
+  ]
+}

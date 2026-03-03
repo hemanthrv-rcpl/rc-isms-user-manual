@@ -1,6 +1,8 @@
 title: RC ISMS User Manuals
 description: Official user documentation for the RC Integrated School Management System
-theme: just-the-docs
+
+# GitHub Pages theme — just-the-docs is a remote theme for documentation
+remote_theme: just-the-docs/just-the-docs
 
 # URL configuration — update these after you create the GitHub repo
 # url: "https://YOUR-ORG.github.io"
@@ -21,3 +23,4 @@ kramdown:
 # Plugins
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
