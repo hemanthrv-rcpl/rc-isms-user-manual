@@ -1,0 +1,23 @@
+title: RC ISMS User Manuals
+description: Official user documentation for the RC Integrated School Management System
+theme: just-the-docs
+
+# URL configuration — update these after you create the GitHub repo
+# url: "https://YOUR-ORG.github.io"
+# baseurl: "/rc-isms-user-manual"
+
+# Navigation
+nav_enabled: true
+
+# Footer
+footer_content: "RC ISMS Documentation &mdash; Maintained by RCPL"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
