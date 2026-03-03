@@ -4,6 +4,9 @@ description: Official user documentation for the RC Integrated School Management
 # GitHub Pages theme — just-the-docs is a remote theme for documentation
 remote_theme: just-the-docs/just-the-docs
 
+# Tell Jekyll to process .mdx files (required for docs.page compatibility)
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,mdx"
+
 # URL configuration — update these after you create the GitHub repo
 # url: "https://YOUR-ORG.github.io"
 # baseurl: "/rc-isms-user-manual"
